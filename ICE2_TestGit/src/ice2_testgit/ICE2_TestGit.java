@@ -18,6 +18,7 @@ public class ICE2_TestGit {
         
         //committing to rev 2 local
         //rev 3 local comment
+        //rev4 remote
     }
     
 }
