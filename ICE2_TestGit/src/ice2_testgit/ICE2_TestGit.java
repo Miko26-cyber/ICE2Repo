@@ -17,6 +17,7 @@ public class ICE2_TestGit {
         System.out.println("Hello world");
         
         //committing to rev 2 local
+        //rev 3 local comment
     }
     
 }
